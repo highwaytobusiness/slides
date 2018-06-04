@@ -28,26 +28,6 @@ slides:
                 
                  </code></pre>   
    
- - title: Adventure at Dracula
-  slide-data: A trip to Transylvania often begins with curiosity for the myth behind Dracula.
-  image: '/slides/images/dracula.jpg'   
-   
-  - title: Our selection
-  slide-data: Browse our popular travel and call us for tips and advice!
-  image: '/slides/images/erbjudanden_transylvanien.jpg' 
-   
-  - title: Customers are telling
-  slide-data: "The trip to Transylvania is one of the best round trips I've been to throughout my life." Thus, Auli, an active and resvan stockholmer, traveled to Transylvania in 2013.
-  image: '/slides/images/resa_transylvanien.jpg'
-   
-  - title: Get travel tips, info & offers 
-  slide-data: Visit our <a href="https://transylvania.se">website</a>. And subscribe to our <a href="https://www.instagram.com/xtransylvaniax/">instagram</a> account.
-  background: '#1abc9c'
-   
-  - title: We will help you with the trip
-  slide-data: Don't forget to follow us on instagram.
-  image: '/slides/images/bucharest.jpg'   
-
   - title: Get travel tips, info & offers 
   slide-data: Experience Transylvania is the personal travel agency that takes you to the heart of Europe's perhaps most mysterious area. Transylvania is an exciting, safe and affordable destination.
   background: '#9b59b6' 
