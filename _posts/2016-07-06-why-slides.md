@@ -3,6 +3,7 @@ title: Experience Transylvania. Why?
 layout: post
 permalink: /why/
 background: '#0a5'
+---
 
 
  <section>
