@@ -1,19 +1,27 @@
 ---
-title: Why WebJeda Slides?
+title: Experience Transylvania. Why?
 layout: post
 permalink: /why/
 background: '#0a5'
 
 slides:
- - title: Why use webjeda slides?
-   slide-data: Webjeda slides is built using revealjs. The idea is to keep all the slideshows in one place as posts. All your presentations can be accessed from one place!
+ - title: What is Experience Transylvania?
+   slide-data: Experience Transylvania is the personal travel agency that takes you to the heart of Europe's perhaps most mysterious area. We create group trips and tailor made trips to Transylvania.
+   
     
- - title: Another reason to use webjeda slides    
-   slide-data: It is very easy to apply different themes, background colors and images to slides.
+ - title: Another reason to travel with us    
+   slide-data: We love Transylvania but most of all, we love our customers. We want to create amazing experiences for each of you who want to travel with us. A taste of our travels comes with this film. Feel free to take a trip to see that the reality is even nicer than the pictures!
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/2JrZwKAGRBU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>   
    background: '#05a'
    
- - title: Is it free to use?
-   slide-data: Absolutely. All credits should go to Hakim El Hattab for creating revealjs.
+    - title: Another reason to travel with us    
+   slide-data: 
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/2JrZwKAGRBU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+   
+   background: '#05a'
+   
+ - title: Get travel tips, info & offers 
+   slide-data: Visit our <a href="https://transylvania.se">website</a>. <br> And subscribe to our <a href="https://www.instagram.com/xtransylvaniax/">instagram</a> account.
    background: '#e74c3c'
 ---
 
