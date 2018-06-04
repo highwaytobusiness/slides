@@ -31,9 +31,37 @@ slides:
                 
                  </code></pre>   
    
+   <section>
+    <section>
+        <h2>See more pictures</h2>
+        <p>And don't forget to subscribe to our instagram:</p>
+     <p><a href="https://www.instagram.com/xtransylvaniax/">@xtransylvaniax</a></p>
+        <br>
+        <a href="#" class="navigate-down">
+            <img width="78" data-src="https://s3.amazonaws.com/hakim-static/reveal-js/arrow.png" alt="Down arrow">
+        </a>
+    </section>
+    <section>
+        <h2>Bucegi, Romania</h2>
+    image: '/slides/images/bucegicouple.jpg'     
+    </section>
+    <section>
+        <h2>Sfinx, Bucegi</h2>
+        <pThe Sphinx is a natural rock formation in the Bucegi Natural Park which is in the Bucegi Mountains of Romania..</p>
+        <br>
+     image: '/slides/images/sfinx.jpg' 
+        <a href="#/2">
+            <img width="78" data-src="https://s3.amazonaws.com/hakim-static/reveal-js/arrow.png" alt="Up arrow" style="transform: rotate(180deg); -webkit-transform: rotate(180deg);">
+        </a>
+    </section>
+</section>
+
   
  - title: Get travel tips, info & offers 
-   slide-data: Visit our <a href="https://transylvania.se">website</a>. And subscribe to our <a href="https://www.instagram.com/xtransylvaniax/">instagram</a> account.
+   slide-data: Follow us:
+   <p>
+        <small>Visit our <a href=""https://transylvania.se">Website</a> / and <a href="https://www.instagram.com/xtransylvaniax/">instagram</a></small>
+    </p>
    background: '#e74c3c'
    
 ---
