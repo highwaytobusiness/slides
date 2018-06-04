@@ -17,6 +17,7 @@ slides:
    
  - title: Where you can travel with us?
    slide-data: A sunny autumn on the coast does not have to be a ten-hour flight away. Nice bathing weather, cozy and affordable hotels, exciting waves and soft bright sandy beaches are closer than you think.
+   image: '/slides/images/zen.jpeg'
    
    
  - title: How you get there?
