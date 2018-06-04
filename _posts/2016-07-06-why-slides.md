@@ -51,6 +51,7 @@ slides:
   - title: Get travel tips, info & offers 
   slide-data: Experience Transylvania is the personal travel agency that takes you to the heart of Europe's perhaps most mysterious area. Transylvania is an exciting, safe and affordable destination.
   background: '#9b59b6' 
+
 ---
 
 {% for slide in page.slides %}                 
