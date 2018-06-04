@@ -14,11 +14,6 @@ slides:
    <iframe width="560" height="315" src="https://www.youtube.com/embed/2JrZwKAGRBU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>   
    background: '#05a'
    
-    - title: Another reason to travel with us    
-   slide-data: 
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/2JrZwKAGRBU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-   
-   background: '#05a'
    
  - title: Get travel tips, info & offers 
    slide-data: Visit our <a href="https://transylvania.se">website</a>. <br> And subscribe to our <a href="https://www.instagram.com/xtransylvaniax/">instagram</a> account.
